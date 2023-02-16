@@ -2,24 +2,24 @@
 
 # Back-end
 
-# Ao baixar a solução atualize as referências de projeto:
+## Ao baixar a solução atualize as referências de projeto:
 
 dotnet restore
 
-# Para executar:
+## Para executar:
 
 dotnet run
 
-# Para testar:
+## Para testar:
 dotnet test
 
-# FontEnd
+# Front-end
 
-# Ao baixar a solução atualize as referências do projeto:
+## Ao baixar a solução atualize as referências do projeto:
 npm install
 
-# Para executar:
+## Para executar:
 npm start
 
-# Para testar: 
+## Para testar: 
 ng test
