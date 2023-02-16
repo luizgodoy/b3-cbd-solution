@@ -1,0 +1,25 @@
+.home .title {
+    font-size: 3rem;
+    font-weight: 300;
+    line-height: 1.2;
+}
+
+.home .subtitle {
+    font-size: 1.1rem;
+}
+
+th,td{
+    text-align: center;
+}
+th{
+    background-color:#422956;
+    color: white;
+}
+.tbl1
+{
+    width: 400px;
+}
+.tbl2
+{
+    width: 400pxx;
+}
